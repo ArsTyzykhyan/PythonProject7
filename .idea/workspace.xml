@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af7a2c55-fc08-4def-8654-c6969bb50e49" name="Changes" comment="module_7_2">
-      <change afterPath="$PROJECT_DIR$/module_7_4.py" afterDir="false" />
+    <list default="true" id="af7a2c55-fc08-4def-8654-c6969bb50e49" name="Changes" comment="module_8_1">
       <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_8_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_8_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,7 +167,23 @@
       <option name="project" value="LOCAL" />
       <updated>1734883646052</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="module_7_4">
+      <option name="closed" value="true" />
+      <created>1734884371827</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1734884371827</updated>
+    </task>
+    <task id="LOCAL-00008" summary="module_8_1">
+      <option name="closed" value="true" />
+      <created>1734885372231</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1734885372231</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -177,6 +193,8 @@
     <MESSAGE value="module_8_3" />
     <MESSAGE value="module_7_1" />
     <MESSAGE value="module_7_2" />
-    <option name="LAST_COMMIT_MESSAGE" value="module_7_2" />
+    <MESSAGE value="module_7_4" />
+    <MESSAGE value="module_8_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="module_8_1" />
   </component>
 </project>
