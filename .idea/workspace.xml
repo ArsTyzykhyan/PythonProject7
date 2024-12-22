@@ -4,17 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af7a2c55-fc08-4def-8654-c6969bb50e49" name="Changes" comment="hard_moments">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProject7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vsyachina/arsik.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_8_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabota_s_failami/out.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/rabota_s_failami/practice.py" afterDir="false" />
+    <list default="true" id="af7a2c55-fc08-4def-8654-c6969bb50e49" name="Changes" comment="module_8_3/">
+      <change afterPath="$PROJECT_DIR$/Vsyachina/products.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_7_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/products.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +52,7 @@
   "keyToString": {
     "Python.01_strings_and_bytes.executor": "Run",
     "Python.arsik.executor": "Run",
+    "Python.module_7_1.executor": "Run",
     "Python.module_7_notepad.executor": "Run",
     "Python.module_8_1.executor": "Run",
     "Python.module_8_2.executor": "Run",
@@ -147,13 +142,22 @@
       <option name="project" value="LOCAL" />
       <updated>1734536287305</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="module_8_3">
+      <option name="closed" value="true" />
+      <created>1734631267801</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1734631267801</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="explorer" />
     <MESSAGE value="notepad" />
     <MESSAGE value="hard_moments" />
-    <option name="LAST_COMMIT_MESSAGE" value="hard_moments" />
+    <MESSAGE value="module_8_3" />
+    <option name="LAST_COMMIT_MESSAGE" value="module_8_3" />
   </component>
 </project>
