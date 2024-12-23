@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af7a2c55-fc08-4def-8654-c6969bb50e49" name="Changes" comment="module_8_1">
+    <list default="true" id="af7a2c55-fc08-4def-8654-c6969bb50e49" name="Changes" comment="module_8_3">
+      <change afterPath="$PROJECT_DIR$/module_9_1.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_8_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_8_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +58,7 @@
     "Python.module_8_1.executor": "Run",
     "Python.module_8_2.executor": "Run",
     "Python.module_8_3.executor": "Run",
+    "Python.module_9_1.executor": "Run",
     "Python.practice.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -183,18 +184,35 @@
       <option name="project" value="LOCAL" />
       <updated>1734885372231</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="module_8_2">
+      <option name="closed" value="true" />
+      <created>1734888717720</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1734888717721</updated>
+    </task>
+    <task id="LOCAL-00010" summary="module_8_3">
+      <option name="closed" value="true" />
+      <created>1734891413363</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1734891413363</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="explorer" />
     <MESSAGE value="notepad" />
     <MESSAGE value="hard_moments" />
-    <MESSAGE value="module_8_3" />
     <MESSAGE value="module_7_1" />
     <MESSAGE value="module_7_2" />
     <MESSAGE value="module_7_4" />
     <MESSAGE value="module_8_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="module_8_1" />
+    <MESSAGE value="module_8_2" />
+    <MESSAGE value="module_8_3" />
+    <option name="LAST_COMMIT_MESSAGE" value="module_8_3" />
   </component>
 </project>
