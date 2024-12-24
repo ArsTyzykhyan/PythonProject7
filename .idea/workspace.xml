@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af7a2c55-fc08-4def-8654-c6969bb50e49" name="Changes" comment="module_8_3">
-      <change afterPath="$PROJECT_DIR$/module_9_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
+    <list default="true" id="af7a2c55-fc08-4def-8654-c6969bb50e49" name="Changes" comment="module_9_1">
+      <change afterPath="$PROJECT_DIR$/module_9_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,29 +46,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.01_strings_and_bytes.executor": "Run",
-    "Python.arsik.executor": "Run",
-    "Python.module_7_1.executor": "Run",
-    "Python.module_7_2.executor": "Run",
-    "Python.module_7_4.executor": "Run",
-    "Python.module_7_notepad.executor": "Run",
-    "Python.module_8_1.executor": "Run",
-    "Python.module_8_2.executor": "Run",
-    "Python.module_8_3.executor": "Run",
-    "Python.module_9_1.executor": "Run",
-    "Python.practice.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.01_strings_and_bytes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.arsik.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_7_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_7_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_7_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_7_notepad.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_8_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_8_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_8_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_9_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_9_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practice.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "directory"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\79045\PycharmProjects\PythonProject7\rabota_s_failami" />
@@ -200,7 +200,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734891413363</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="module_9_1">
+      <option name="closed" value="true" />
+      <created>1734978366862</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1734978366862</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -213,6 +221,7 @@
     <MESSAGE value="module_8_1" />
     <MESSAGE value="module_8_2" />
     <MESSAGE value="module_8_3" />
-    <option name="LAST_COMMIT_MESSAGE" value="module_8_3" />
+    <MESSAGE value="module_9_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="module_9_1" />
   </component>
 </project>
